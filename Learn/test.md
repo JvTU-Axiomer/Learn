@@ -306,3 +306,9 @@ Markdown Preview Enhanced拓展功能：
 VS Code 语法知识：
 
 [VS Code 语法知识墙](https://orangex4.cool/post/notes-in-markdown/)
+
+---
+
+Git廖雪峰教程：
+
+[Git廖雪峰教程](https://www.liaoxuefeng.com/wiki/896043488029600)
