@@ -295,7 +295,14 @@ Markdown Preview Enhanced拓展功能：
 <!-- 多行注释
 就像这样 -->
 
+---
 
-**哈*哈**哈***哈**
+自动目录：
 
-$1 + 1$
+[TOC]
+
+---
+
+VS Code 语法知识：
+
+[VS Code 语法知识墙](https://orangex4.cool/post/notes-in-markdown/)
